@@ -110,5 +110,5 @@ This project is licensed under the MIT License.
 ---
 
 🙌 Acknowledgements
-NewsAPI
-Python Requests Library
+- NewsAPI
+- Python Requests Library
