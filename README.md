@@ -87,17 +87,16 @@ news-fetcher-python/
 ---
 
 ⚠️ Notes
-Free NewsAPI plan has request limits.
-
-Date is currently fixed in code (2026-03-21) — can be improved dynamically.
+- Free NewsAPI plan has request limits.
+- Date is currently fixed in code (2026-03-21) — can be improved dynamically.
 ---
 
 💡 Future Improvements
-📅 Dynamic date selection
-🌐 GUI version (Tkinter / Web app)
-🗂️ Category-based filtering
-💾 Save articles to file (PDF/CSV)
-🔔 Notifications for trending news
+- 📅 Dynamic date selection
+- 🌐 GUI version (Tkinter / Web app)
+- 🗂️ Category-based filtering
+- 💾 Save articles to file (PDF/CSV)
+- 🔔 Notifications for trending news
 ---
 
 🤝 Contributing
