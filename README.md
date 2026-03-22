@@ -88,6 +88,7 @@ news-fetcher-python/
 
 ⚠️ Notes
 Free NewsAPI plan has request limits.
+
 Date is currently fixed in code (2026-03-21) — can be improved dynamically.
 ---
 
