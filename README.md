@@ -30,10 +30,14 @@ git clone https://github.com/CodeWithShrey-collab/News-Fetcher-CLI.git
 cd news-fetcher-python
 ```
 
+---
+
 2. Install dependencies:
 ```bash
 pip install requests
 ```
+
+---
 
 🔑 API Setup
 Go to: https://newsapi.org/
@@ -43,6 +47,8 @@ Replace the API key in the code:
 api = "YOUR_API_KEY"
 ```
 
+---
+
 ▶️ Usage
 
 Run the script:
@@ -50,10 +56,14 @@ Run the script:
 python main.py
 ```
 
+---
+
 Enter your desired news topic:
 ```bash
 What type of news are you interested in today? technology
 ```
+
+---
 
 📌 Example Output
 ```bash
@@ -63,18 +73,23 @@ What type of news are you interested in today? technology
 
 2. AI is transforming the future https://example.com/article2
 ```
-```bash
+
+---
+
 📁 Project Structure
+```bash
 news-fetcher-python/
 │
 ├── main.py
 └── README.md
 ```
 
-⚠️ Notes
-Free NewsAPI plan has request limits
-Date is currently fixed in code (2026-03-21) — can be improved dynamically
+---
 
+⚠️ Notes
+Free NewsAPI plan has request limits.
+Date is currently fixed in code (2026-03-21) — can be improved dynamically.
+---
 
 💡 Future Improvements
 📅 Dynamic date selection
@@ -82,14 +97,17 @@ Date is currently fixed in code (2026-03-21) — can be improved dynamically
 🗂️ Category-based filtering
 💾 Save articles to file (PDF/CSV)
 🔔 Notifications for trending news
+---
 
 🤝 Contributing
 
 Contributions are welcome! Feel free to fork this repo and submit a pull request.
+---
 
 📜 License
 
 This project is licensed under the MIT License.
+---
 
 🙌 Acknowledgements
 NewsAPI
